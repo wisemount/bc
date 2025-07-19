@@ -1,0 +1,16 @@
+<!-- Placeholder for logo.png -->
+<!-- This file represents where your actual logo/profile image should be placed -->
+<!-- Recommended specifications: -->
+<!-- - Size: 300x300px or larger (square format) -->
+<!-- - Format: PNG with transparency or JPG -->
+<!-- - File size: Under 100KB for fast loading -->
+<!-- - High quality for retina displays -->
+
+<!-- You can create a logo using: -->
+<!-- 1. Canva (free online design tool) -->
+<!-- 2. Adobe Illustrator/Photoshop -->
+<!-- 3. GIMP (free alternative) -->
+<!-- 4. Figma (free design tool) -->
+<!-- 5. AI logo generators -->
+
+<!-- Default placeholder will show until you add your logo -->
